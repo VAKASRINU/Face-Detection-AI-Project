@@ -1,7 +1,8 @@
 # Face Detection AI Project
 
 **Author:** Vaka Srinu Vasa Reddy  
-**Institution:** PACE  
+**Institution:** 
+Pace Institute of Technology and Sciences  
 **Course:** Python  
 **Submission Date:** 2025
 
